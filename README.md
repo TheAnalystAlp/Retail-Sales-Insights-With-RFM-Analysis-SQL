@@ -99,13 +99,10 @@ While only the top 10 customers are displayed here, lower RFM scores in the over
 Link for the SQL codes:
 https://github.com/TheAnalystAlp/Retail-Sales-Insights-SQL-With-RFM-Analysis-/blob/main/Retail_Sales_Insights___SQL(With_RFM_Analysis).ipynb
 
-Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
+#### Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
-My Website:https://alptheanalyst.wixsite.com/alptuna
+#### Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
-My E-Mail:alptuna.professional@gmail.com
+#### My Website:https://alptheanalyst.wixsite.com/alptuna
 
-Link for the Colab file:[https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA ](https://colab.research.google.com/drive/1lP6t4pHuJGTe1LO0ynJ8ypPAcn7KwVjc?usp=sharing)
-
-Link for the Data Set:https://github.com/TheAnalystAlp/Retail-Sales-Insights-SQL-With-RFM-Analysis-/blob/main/retail_store_sales.csv
-
+#### My E-Mail:alptuna.professional@gmail.com
