@@ -101,8 +101,6 @@ https://github.com/TheAnalystAlp/Retail-Sales-Insights-SQL-With-RFM-Analysis-/bl
 
 #### Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
-#### Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
-
 #### My Website:https://alptheanalyst.wixsite.com/alptuna
 
 #### My E-Mail:alptuna.professional@gmail.com
